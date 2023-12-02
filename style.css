@@ -1,0 +1,62 @@
+body{
+    background-color:yellowgreen ;
+}
+
+h1{
+    color: tomato;
+    text-align: center;
+    font-size: 50px;
+}
+
+header p{
+    color: darkblue;
+    text-align:center;
+    font-size: 30px;
+}
+
+p{
+    font-size: 32px;
+    color: red;
+    text-align: center ;
+}
+
+.p{
+    background-color: white;
+    border-radius: 20px;
+    font-size: 45px;
+    text-decoration: none;
+    margin: 650px;
+}
+
+.a{
+    width: 500px;
+    height: 500px;
+    margin: 100px;
+}
+
+a{
+    background-color: white;
+    border-radius: 20px;
+    font-size: 45px;
+    text-decoration: none;
+    margin: 100px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.w{
+    text-align: left;
+}
+
+footer p{
+    text-align: left;
+    color: blue;
+}
+
+footer{
+    background-color: coral;
+}
+
